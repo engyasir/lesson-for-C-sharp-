@@ -10,6 +10,7 @@ namespace lison1
     {
         static void Main(string[] args)
         {
+            // this is my first lesson
             Double number1, number2;
             Double result;
             Console.WriteLine("Enter the first number : ");
